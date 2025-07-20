@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: g8gs.net
+name: g8gs.net - Googs' Blog and So-forth
 
 # Name of the author
 author: Rob Gee
@@ -22,11 +22,11 @@ avatar: /images/rpg.jpg
 footer-links:
   dribbble:
   email: rob.guglielmetti@gmail.com
-  facebook:
+  facebook: rob.guglielmetti
   flickr:
   github: rpg777
-  instagram:
-  linkedin: 
+  instagram: rob.guglielmetti
+  linkedin: robguglielmetti
   pinterest:
   rss: rss
   twitter: 
@@ -35,7 +35,7 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
   mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
-
+  
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus: 
