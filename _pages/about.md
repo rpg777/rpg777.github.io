@@ -4,26 +4,15 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+## About 
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+A long time ago, Rob had a website and a blog. It got pretty good, but in the end it was merely full of the rantings of a daily NJ-to-NYC commuter. Facebook happened, Instagram, and the rest. It all fell by the wayside. Moves, both digital and physical, happened. Life and death happened. People came and went. 
 
-## Features
+Rob now lives in Tucson, AZ and is working his way back from an awful lot of shit. He is going to put written and photographic pieces of his life back up here, and the usual links to the other usual shit may be found in the footers and eventually elsewhere on this site. 
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+The old rumblestrip.org will again host the 9/11 eyewitness account and some other popular favorites, and the rest of what gets resurrected will probably surface on this site. 
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+\m/
+
+g8gs
+
